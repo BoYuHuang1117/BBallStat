@@ -1,5 +1,16 @@
 # Basketball stat collection webapp
 
+## BBallStat
+
+BBallStat is a user-friendly software that can collect players or teams statistic in NBA.
+
+## Key features to be developed
+
+- Simple user authentication
+- Gather stats by players or teams
+- Gather stats by category(s)
+- Gather stats by time frame: Could be past month, past season and potentially focus on the **second** quarter.
+
 ## How to installation 🚀
 
 ### Software spec
