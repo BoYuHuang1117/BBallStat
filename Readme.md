@@ -8,7 +8,7 @@
 
 ### Installation with terminal
 
-Open up the terminal and cd into ~/BBallStat/WebApplication1 folder.
+Open up the terminal and cd into **~/BBallStat/WebApplication1** folder.
 
 1. Build up project:
 ```bash
